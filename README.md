@@ -1,9 +1,12 @@
 # The Long Cry
 ## A Brief Introduction
-*The Long Cry* is a worldbuilding and storytelling project focused on the Confessions of the Lutheran Faith, family, survival, truth, and not least of all, the enduring force that is music. Its initial storytelling catalyst occurs in 1630 A.D. The first portion of the **Rowan and Róisín arc** (1630-1632) is currently in development, detailing their escape from war-torn Germany to Yorkshire, England.
+"Why do bad things happen to good people?" 
+
+We've been asking it for as long as mankind has walked this earth, and so many have tried to answer it. 
+
+*The Long Cry* is a worldbuilding and storytelling project focused on the Confessions of the Lutheran Faith, family, survival, truth, and not least of all, the enduring force that is music. Its initial storytelling catalyst occurs in 1630 A.D. The first portion of the **Rowan and Róisín arc** (1630-1632) is currently in (slow) development, detailing their escape from war-torn Germany to Yorkshire, England.
 
 ## A Brief Guide
-
 This repository contains, as of October 2025:
 - The **Rowan and Róisín arc**, featuring a German Lutheran boy and an Irish Catholic girl who meet during the Thirty Years' War, and its dependencies: 
 	- The **Plot**, which contains a file for each notable chronological or geographical landmark as the story arc progresses
